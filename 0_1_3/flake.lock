@@ -40,42 +40,15 @@
         "nixpkgs": [
           "nixpkgs"
         ],
-        "opencl-master": "opencl-master"
-      },
-      "locked": {
-        "lastModified": 1648107941,
-        "narHash": "sha256-oAmFOV/WjfB43UoVu/2B03niZkXfHpL4pzeAiICxtY0=",
-        "owner": "nim-nix-pkgs",
-        "repo": "opencl",
-        "rev": "5352ae349d3acb3d6edb3b76bdf6dd1a78e0fef2",
-        "type": "github"
-      },
-      "original": {
-        "owner": "nim-nix-pkgs",
-        "ref": "master",
-        "repo": "opencl",
-        "type": "github"
-      }
-    },
-    "opencl-master": {
-      "inputs": {
-        "flakeNimbleLib": [
-          "opencl",
-          "flakeNimbleLib"
-        ],
-        "nixpkgs": [
-          "opencl",
-          "nixpkgs"
-        ],
         "src-opencl-master": "src-opencl-master"
       },
       "locked": {
         "dir": "master",
-        "lastModified": 1648107941,
-        "narHash": "sha256-oAmFOV/WjfB43UoVu/2B03niZkXfHpL4pzeAiICxtY0=",
+        "lastModified": 1648163431,
+        "narHash": "sha256-NwjIEh9Fp1GAvdy83oOsfjb4GayY74d6yRSMsjCmpzQ=",
         "owner": "nim-nix-pkgs",
         "repo": "opencl",
-        "rev": "5352ae349d3acb3d6edb3b76bdf6dd1a78e0fef2",
+        "rev": "6a3083a56c539a3128bd5eb416e89e0e5a1187d4",
         "type": "github"
       },
       "original": {
