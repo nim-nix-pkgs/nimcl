@@ -7,11 +7,11 @@
         ]
       },
       "locked": {
-        "lastModified": 1647920574,
-        "narHash": "sha256-D3ob5QykELhyNcTnISOkjEzLlgXltwON8Ucrz5cpiQI=",
+        "lastModified": 1648105061,
+        "narHash": "sha256-Je25qNlH4xrH3+m6vIq6yPvdfQ80FRTwX4JOhrRLduc=",
         "owner": "riinr",
         "repo": "nim-flakes-lib",
-        "rev": "bfb46a1f762002f07f9d81d93dacd544c6890623",
+        "rev": "f1ec5e2f15b9f717c33b6942ce7cb344ff868522",
         "type": "github"
       },
       "original": {
@@ -43,11 +43,11 @@
         "opencl-master": "opencl-master"
       },
       "locked": {
-        "lastModified": 1647934393,
-        "narHash": "sha256-cwuT9OpgnYwx28DJ3QHdaIgxKwON3t5UOlk0jJZEdhs=",
+        "lastModified": 1648107941,
+        "narHash": "sha256-oAmFOV/WjfB43UoVu/2B03niZkXfHpL4pzeAiICxtY0=",
         "owner": "nim-nix-pkgs",
         "repo": "opencl",
-        "rev": "de4b592e837beca5da7d6a8222e060fb74b42edc",
+        "rev": "5352ae349d3acb3d6edb3b76bdf6dd1a78e0fef2",
         "type": "github"
       },
       "original": {
@@ -71,11 +71,11 @@
       },
       "locked": {
         "dir": "master",
-        "lastModified": 1647934393,
-        "narHash": "sha256-cwuT9OpgnYwx28DJ3QHdaIgxKwON3t5UOlk0jJZEdhs=",
+        "lastModified": 1648107941,
+        "narHash": "sha256-oAmFOV/WjfB43UoVu/2B03niZkXfHpL4pzeAiICxtY0=",
         "owner": "nim-nix-pkgs",
         "repo": "opencl",
-        "rev": "de4b592e837beca5da7d6a8222e060fb74b42edc",
+        "rev": "5352ae349d3acb3d6edb3b76bdf6dd1a78e0fef2",
         "type": "github"
       },
       "original": {
