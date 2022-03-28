@@ -11,7 +11,6 @@
   inputs.src-nimcl-0_1_3.ref   = "refs/tags/0.1.3";
   inputs.src-nimcl-0_1_3.owner = "andreaferretti";
   inputs.src-nimcl-0_1_3.repo  = "nimcl";
-  inputs.src-nimcl-0_1_3.dir   = "";
   inputs.src-nimcl-0_1_3.type  = "github";
   
   inputs."opencl".owner = "nim-nix-pkgs";

@@ -11,7 +11,6 @@
   inputs.src-nimcl-master.ref   = "refs/heads/master";
   inputs.src-nimcl-master.owner = "andreaferretti";
   inputs.src-nimcl-master.repo  = "nimcl";
-  inputs.src-nimcl-master.dir   = "";
   inputs.src-nimcl-master.type  = "github";
   
   inputs."opencl".owner = "nim-nix-pkgs";
