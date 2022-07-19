@@ -45,11 +45,11 @@
       },
       "locked": {
         "dir": "master",
-        "lastModified": 1658032099,
-        "narHash": "sha256-NLRFG2RXgb0/v1qH7jGBsE1NGg+eWyuEFzvEXVYKmPk=",
+        "lastModified": 1658201727,
+        "narHash": "sha256-vTb6H639noI54AP0Q3u8a5Qg5bY5un1mB48gkzWnHHo=",
         "owner": "nim-nix-pkgs",
         "repo": "opencl",
-        "rev": "c73b7d71594eddffc753a310e95cfb2cf10eb98d",
+        "rev": "313b56b27a7ac85e1618617e65a590d425821225",
         "type": "github"
       },
       "original": {
